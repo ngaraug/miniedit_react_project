@@ -70,11 +70,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
 
 
-#Miniedit: Online HTML, CSS, and JS Editor
+# Miniedit: Online HTML, CSS, and JS Editor
 
 Welcome to Miniedit, an online HTML, CSS, and JS editor built using the ReactJS framework. This project allows you to write, edit, and preview your HTML, CSS, and JS code directly in the browser, making it a convenient tool for web developers and enthusiasts.
 
-##Features
+## Features
 
 Real-time editing: Miniedit provides a live preview of your code as you type, allowing you to see the changes instantly.
 
@@ -82,10 +82,10 @@ Multiple editor panes: You can work on multiple files simultaneously, with separ
 
 Syntax highlighting: Miniedit highlights the syntax of your code, making it easier to read and identify different elements.
 
-##Getting Started
+## Getting Started
 
-1. Clone the repository ###git clone https://github.com/your-username/miniedit.git
-2. Navigate to the project directory ###cd miniedit
-3. Install dependencies ###npm install
-4. Start the development server ###npm start
+1. Clone the repository ### `git clone https://github.com/your-username/miniedit.git`
+2. Navigate to the project directory ### `cd miniedit`
+3. Install dependencies ### `npm install`
+4. Start the development server ### `npm start`
 5. Open your browser and visit http://localhost:3000 to access the Miniedit editor.
