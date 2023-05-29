@@ -84,8 +84,8 @@ Syntax highlighting: Miniedit highlights the syntax of your code, making it easi
 
 ## Getting Started
 
-1. Clone the repository ### `git clone https://github.com/your-username/miniedit.git`
-2. Navigate to the project directory ### `cd miniedit`
-3. Install dependencies ### `npm install`
-4. Start the development server ### `npm start`
+1. Clone the repository `git clone https://github.com/your-username/miniedit.git`
+2. Navigate to the project directory `cd miniedit`
+3. Install dependencies `npm install`
+4. Start the development server `npm start`
 5. Open your browser and visit http://localhost:3000 to access the Miniedit editor.
