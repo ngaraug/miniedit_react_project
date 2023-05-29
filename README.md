@@ -24,6 +24,9 @@ Syntax highlighting: Miniedit highlights the syntax of your code, making it easi
 Miniedit relies on the following key dependencies:
 
 React: A JavaScript library for building user interfaces.
+
 ReactDOM: A package that provides DOM-specific methods for React.
+
 Codemirror: A powerful code editor component for the web.
+
 Other dependencies: These are listed in the package.json file.
